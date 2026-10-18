@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "titleFa": "هدفون بی‌سیم سونی",
+    "titleEn": "Sony Wireless Headphones",
+    "category": "audio",
+    "price": 3490000,
+    "oldPrice": 4290000,
+    "rating": 4.8,
+    "reviews": 124,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=700&q=85",
+    "badge": "popular",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=700&q=85",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1000&q=80",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=550&q=90"
+    ],
+    "sku": "DKN-0001",
+    "stock": 10,
+    "brand": "Dekon Select",
+    "descriptionFa": "هدفون بی‌سیم سونی با طراحی جذاب و مناسب استفاده روزمره. مشخصات درج‌شده در این نسخه نمایشی هستند و قبل از فروش واقعی باید تأیید شوند.",
+    "descriptionEn": "Sony Wireless Headphones with an attractive everyday design. This is demo content; verify specifications before selling.",
+    "featuresFa": [
+      "اتصال بی‌سیم",
+      "طراحی راحت"
+    ],
+    "featuresEn": [
+      "Wireless connectivity",
+      "Comfortable design"
+    ],
+    "specifications": [
+      {
+        "labelFa": "کد کالا",
+        "labelEn": "SKU",
+        "value": "DKN-0001"
+      },
+      {
+        "labelFa": "برند",
+        "labelEn": "Brand",
+        "value": "Dekon Select"
+      },
+      {
+        "labelFa": "وضعیت",
+        "labelEn": "Availability",
+        "valueFa": "موجود",
+        "valueEn": "In stock"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titleFa": "ساعت هوشمند مینیمال",
+    "titleEn": "Minimal Smartwatch",
+    "category": "wearables",
+    "price": 2190000,
+    "oldPrice": 2800000,
+    "rating": 4.6,
+    "reviews": 86,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=700&q=85",
+    "badge": "sale",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=700&q=85",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1000&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=550&q=90"
+    ],
+    "sku": "DKN-0002",
+    "stock": 13,
+    "brand": "Dekon Select",
+    "descriptionFa": "ساعت هوشمند مینیمال با طراحی جذاب و مناسب استفاده روزمره. مشخصات درج‌شده در این نسخه نمایشی هستند و قبل از فروش واقعی باید تأیید شوند.",
+    "descriptionEn": "Minimal Smartwatch with an attractive everyday design. This is demo content; verify specifications before selling.",
+    "featuresFa": [
+      "نمایشگر لمسی",
+      "سبک و خوش‌دست"
+    ],
+    "featuresEn": [
+      "Touchscreen",
+      "Lightweight design"
+    ],
+    "specifications": [
+      {
+        "labelFa": "کد کالا",
+        "labelEn": "SKU",
+        "value": "DKN-0002"
+      },
+      {
+        "labelFa": "برند",
+        "labelEn": "Brand",
+        "value": "Dekon Select"
+      },
+      {
+        "labelFa": "وضعیت",
+        "labelEn": "Availability",
+        "valueFa": "موجود",
+        "valueEn": "In stock"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titleFa": "دوربین عکاسی حرفه‌ای",
+    "titleEn": "Professional Camera",
+    "category": "electronics",
+    "price": 18900000,
+    "oldPrice": 21000000,
+    "rating": 4.9,
+    "reviews": 53,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=700&q=85",
+    "badge": "new",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=700&q=85",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=1000&q=80",
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=550&q=90"
+    ],
+    "sku": "DKN-0003",
+    "stock": 16,
+    "brand": "Dekon Select",
+    "descriptionFa": "دوربین عکاسی حرفه‌ای با طراحی جذاب و مناسب استفاده روزمره. مشخصات درج‌شده در این نسخه نمایشی هستند و قبل از فروش واقعی باید تأیید شوند.",
+    "descriptionEn": "Professional Camera with an attractive everyday design. This is demo content; verify specifications before selling.",
+    "featuresFa": [
+      "کیفیت تصویر بالا",
+      "کنترل آسان"
+    ],
+    "featuresEn": [
+      "High image quality",
+      "Easy controls"
+    ],
+    "specifications": [
+      {
+        "labelFa": "کد کالا",
+        "labelEn": "SKU",
+        "value": "DKN-0003"
+      },
+      {
+        "labelFa": "برند",
+        "labelEn": "Brand",
+        "value": "Dekon Select"
+      },
+      {
+        "labelFa": "وضعیت",
+        "labelEn": "Availability",
+        "valueFa": "موجود",
+        "valueEn": "In stock"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titleFa": "کفش اسپرت روزمره",
+    "titleEn": "Everyday Sneakers",
+    "category": "fashion",
+    "price": 1850000,
+    "oldPrice": 2400000,
+    "rating": 4.7,
+    "reviews": 207,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700&q=85",
+    "badge": "sale",
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=700&q=85",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1000&q=80",
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=550&q=90"
+    ],
+    "sku": "DKN-0004",
+    "stock": 19,
+    "brand": "Dekon Select",
+    "descriptionFa": "کفش اسپرت روزمره با طراحی جذاب و مناسب استفاده روزمره. مشخصات درج‌شده در این نسخه نمایشی هستند و قبل از فروش واقعی باید تأیید شوند.",
+    "descriptionEn": "Everyday Sneakers with an attractive everyday design. This is demo content; verify specifications before selling.",
+    "featuresFa": [
+      "طراحی روزمره",
+      "مناسب استفاده روزانه"
+    ],
+    "featuresEn": [
+      "Everyday style",
+      "Daily use"
+    ],
+    "specifications": [
+      {
+        "labelFa": "کد کالا",
+        "labelEn": "SKU",
+        "value": "DKN-0004"
+      },
+      {
+        "labelFa": "برند",
+        "labelEn": "Brand",
+        "value": "Dekon Select"
+      },
+      {
+        "labelFa": "وضعیت",
+        "labelEn": "Availability",
+        "valueFa": "موجود",
+        "valueEn": "In stock"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titleFa": "اسپیکر بلوتوثی قابل حمل",
+    "titleEn": "Portable Bluetooth Speaker",
+    "category": "audio",
+    "price": 1590000,
+    "oldPrice": 1990000,
+    "rating": 4.5,
+    "reviews": 91,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=700&q=85",
+    "badge": "popular",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=700&q=85",
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=1000&q=80",
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=550&q=90"
+    ],
+    "sku": "DKN-0005",
+    "stock": 22,
+    "brand": "Dekon Select",
+    "descriptionFa": "اسپیکر بلوتوثی قابل حمل با طراحی جذاب و مناسب استفاده روزمره. مشخصات درج‌شده در این نسخه نمایشی هستند و قبل از فروش واقعی باید تأیید شوند.",
+    "descriptionEn": "Portable Bluetooth Speaker with an attractive everyday design. This is demo content; verify specifications before selling.",
+    "featuresFa": [
+      "صدای واضح",
+      "قابل حمل"
+    ],
+    "featuresEn": [
+      "Clear sound",
+      "Portable"
+    ],
+    "specifications": [
+      {
+        "labelFa": "کد کالا",
+        "labelEn": "SKU",
+        "value": "DKN-0005"
+      },
+      {
+        "labelFa": "برند",
+        "labelEn": "Brand",
+        "value": "Dekon Select"
+      },
+      {
+        "labelFa": "وضعیت",
+        "labelEn": "Availability",
+        "valueFa": "موجود",
+        "valueEn": "In stock"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titleFa": "عینک آفتابی کلاسیک",
+    "titleEn": "Classic Sunglasses",
+    "category": "fashion",
+    "price": 990000,
+    "oldPrice": 1290000,
+    "rating": 4.4,
+    "reviews": 67,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=700&q=85",
+    "badge": "new",
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=700&q=85",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=1000&q=80",
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=550&q=90"
+    ],
+    "sku": "DKN-0006",
+    "stock": 25,
+    "brand": "Dekon Select",
+    "descriptionFa": "عینک آفتابی کلاسیک با طراحی جذاب و مناسب استفاده روزمره. مشخصات درج‌شده در این نسخه نمایشی هستند و قبل از فروش واقعی باید تأیید شوند.",
+    "descriptionEn": "Classic Sunglasses with an attractive everyday design. This is demo content; verify specifications before selling.",
+    "featuresFa": [
+      "فریم سبک",
+      "طراحی کلاسیک"
+    ],
+    "featuresEn": [
+      "Lightweight frame",
+      "Classic design"
+    ],
+    "specifications": [
+      {
+        "labelFa": "کد کالا",
+        "labelEn": "SKU",
+        "value": "DKN-0006"
+      },
+      {
+        "labelFa": "برند",
+        "labelEn": "Brand",
+        "value": "Dekon Select"
+      },
+      {
+        "labelFa": "وضعیت",
+        "labelEn": "Availability",
+        "valueFa": "موجود",
+        "valueEn": "In stock"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titleFa": "لپ‌تاپ سبک و مدرن",
+    "titleEn": "Modern Ultrabook",
+    "category": "electronics",
+    "price": 42500000,
+    "oldPrice": 45900000,
+    "rating": 4.8,
+    "reviews": 34,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=700&q=85",
+    "badge": "popular",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=700&q=85",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=1000&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=550&q=90"
+    ],
+    "sku": "DKN-0007",
+    "stock": 28,
+    "brand": "Dekon Select",
+    "descriptionFa": "لپ‌تاپ سبک و مدرن با طراحی جذاب و مناسب استفاده روزمره. مشخصات درج‌شده در این نسخه نمایشی هستند و قبل از فروش واقعی باید تأیید شوند.",
+    "descriptionEn": "Modern Ultrabook with an attractive everyday design. This is demo content; verify specifications before selling.",
+    "featuresFa": [
+      "طراحی باریک",
+      "مناسب کار روزانه"
+    ],
+    "featuresEn": [
+      "Slim design",
+      "Everyday productivity"
+    ],
+    "specifications": [
+      {
+        "labelFa": "کد کالا",
+        "labelEn": "SKU",
+        "value": "DKN-0007"
+      },
+      {
+        "labelFa": "برند",
+        "labelEn": "Brand",
+        "value": "Dekon Select"
+      },
+      {
+        "labelFa": "وضعیت",
+        "labelEn": "Availability",
+        "valueFa": "موجود",
+        "valueEn": "In stock"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titleFa": "کوله‌پشتی شهری",
+    "titleEn": "Urban Backpack",
+    "category": "fashion",
+    "price": 1290000,
+    "oldPrice": 1690000,
+    "rating": 4.6,
+    "reviews": 112,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=700&q=85",
+    "badge": "sale",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=700&q=85",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=1000&q=80",
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=550&q=90"
+    ],
+    "sku": "DKN-0008",
+    "stock": 31,
+    "brand": "Dekon Select",
+    "descriptionFa": "کوله‌پشتی شهری با طراحی جذاب و مناسب استفاده روزمره. مشخصات درج‌شده در این نسخه نمایشی هستند و قبل از فروش واقعی باید تأیید شوند.",
+    "descriptionEn": "Urban Backpack with an attractive everyday design. This is demo content; verify specifications before selling.",
+    "featuresFa": [
+      "جیب‌های کاربردی",
+      "طراحی شهری"
+    ],
+    "featuresEn": [
+      "Useful compartments",
+      "Urban design"
+    ],
+    "specifications": [
+      {
+        "labelFa": "کد کالا",
+        "labelEn": "SKU",
+        "value": "DKN-0008"
+      },
+      {
+        "labelFa": "برند",
+        "labelEn": "Brand",
+        "value": "Dekon Select"
+      },
+      {
+        "labelFa": "وضعیت",
+        "labelEn": "Availability",
+        "valueFa": "موجود",
+        "valueEn": "In stock"
+      }
+    ]
+  }
+]

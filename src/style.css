@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+@theme {--color-primary:#5936E8;--color-primary-dark:#3520A0;--color-accent:#FF941F;--color-coral:#FF526A;--font-sans:"Vazirmatn","Inter",sans-serif;}
+:root{--primary:#5936E8;--primary-dark:#3520A0;--accent:#FF941F;--coral:#FF526A;--text:#22283D;--text-muted:#81899C;--background:#FFFFFF;color-scheme:light}
+.dark{--text:#F4F4FF;--text-muted:#A2A7BD;--background:#0E1020;color-scheme:dark}
+body{margin:0;background:var(--background);color:var(--text);font-family:"Vazirmatn","Inter",sans-serif;transition:background .25s,color .25s}
+html[lang=en] body{font-family:"Inter","Vazirmatn",sans-serif}
+.brand-gradient{background:linear-gradient(110deg,#3520A0,#5936E8,#FF526A,#FF941F)}
+.glass{background:rgba(255,255,255,.78);backdrop-filter:blur(22px);-webkit-backdrop-filter:blur(22px)}
+.dark .glass{background:rgba(18,19,39,.78)}
+.container-main{max-width:1240px;margin-inline:auto;padding-inline:20px}
+button,a{transition:all .2s}button{cursor:pointer}button:disabled{cursor:not-allowed}
