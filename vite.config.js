@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
 
   // نام ریپازیتوری GitHub را اینجا وارد کن
-  base: "/dekon-home/",
+  base: "/dekon.ir/",
 });
